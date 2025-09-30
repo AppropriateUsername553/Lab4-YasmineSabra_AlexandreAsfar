@@ -4,6 +4,8 @@ import tkinter as tk
 from tkinter import ttk 
 import csv
 
+
+
 root = tk.Tk()
 root.title("School Management System")
 root.geometry("800x600")
