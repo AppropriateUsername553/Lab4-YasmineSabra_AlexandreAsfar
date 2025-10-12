@@ -1,0 +1,34 @@
+{
+    "students": [
+        {
+            "student_id": "S113",
+            "name": "jamila ahmad",
+            "email": "jamilaa@starschool.com",
+            "age": 20,
+            "registered_courses_ids": []
+        }
+    ],
+    "instructors": [
+        {
+            "instructor_id": "I12",
+            "name": "EEE",
+            "email": "MSJHDS@starschool.com",
+            "age": 223,
+            "assigned_courses_ids": []
+        }
+    ],
+    "courses": [
+        {
+            "course_id": "C12",
+            "course_name": "OIHH22",
+            "instructor_id": null,
+            "enrolled_students_ids": []
+        },
+        {
+            "course_id": "C123",
+            "course_name": "JUD",
+            "instructor_id": null,
+            "enrolled_students_ids": []
+        }
+    ]
+}
